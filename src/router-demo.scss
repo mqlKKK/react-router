@@ -1,0 +1,13 @@
+@import "~antd/dist/antd.css";
+
+$write-color: rgb(56, 53, 55);
+
+#div-home {
+  font-size: 25pt;
+  margin: 20px;
+}
+
+li {
+  color: $write-color;
+  font-weight: bold;
+}
